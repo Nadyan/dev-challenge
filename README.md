@@ -61,15 +61,15 @@ Complete a função `isBalanced` dentro do arquivo `balanced_brackets.py`.
 
 ## 🔜 Formato da Entrada
 
-A primeira linha contém um único inteiro **$n$**, o número de strings.
+A primeira linha contém um único inteiro **n**, o número de strings.
 
-Cada uma das próximas **$n$** linhas contém uma única string `brackets`, uma sequência de ***Brackets***.
+Cada uma das próximas **n** linhas contém uma única string `brackets`, uma sequência de ***Brackets***.
 
 ## 🔗 Limitação
 
-* $1 \le n \le 10^3$
-* $1 \le |brackets| \le 10^3$, onde $|brackets|$ é o comprimento da sequência.
-* Todos os caracteres $∈$ { **`{`**, **`}`**, **`(`**, **`)`**, **`[`**, **`]`** }.
+* <img src="https://render.githubusercontent.com/render/math?math=1 \le n \le 10^3">
+* <img src="https://render.githubusercontent.com/render/math?math=1 \le |brackets| \le 10^3">, onde <img src="https://render.githubusercontent.com/render/math?math=|brackets|"> é o comprimento da sequência.
+* Todos os caracteres ∈ { **`{`**, **`}`**, **`(`**, **`)`**, **`[`**, **`]`** }.
 
 ## 🔙 Formato da Saída
 
