@@ -44,7 +44,7 @@ Por essa lógica, dizemos que uma sequência de `brackets` é equilibrada se as 
 
 * O subconjunto de `brackets` dentro dos limites de um par de `brackets` também é um par de `brackets` combinado.
 
-Dado **$n$** string de `brackets`, determine se cada sequência de `brackets` esta balanceada. Se uma string for balanceada, retorne `YES`. Caso contrário, retorne `NO`.
+Dado **n** string de `brackets`, determine se cada sequência de `brackets` esta balanceada. Se uma string for balanceada, retorne `YES`. Caso contrário, retorne `NO`.
 
 
 ## 📝 Descrição da Função
@@ -67,7 +67,7 @@ Cada uma das próximas **n** linhas contém uma única string `brackets`, uma se
 
 ## 🔗 Limitação
 
-* <img src="https://render.githubusercontent.com/render/math?math=1 \le n \le 10^3">
+* <img src="https://render.githubusercontent.com/render/math?math=1 \le n \le 10^3" style="background: red;">
 * <img src="https://render.githubusercontent.com/render/math?math=1 \le |brackets| \le 10^3">, onde <img src="https://render.githubusercontent.com/render/math?math=|brackets|"> é o comprimento da sequência.
 * Todos os caracteres ∈ { **`{`**, **`}`**, **`(`**, **`)`**, **`[`**, **`]`** }.
 
