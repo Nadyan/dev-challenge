@@ -40,7 +40,7 @@ Um par de `brackets` correspondente não é balanceado se o conjunto de `bracket
 
 Por essa lógica, dizemos que uma sequência de `brackets` é equilibrada se as seguintes condições forem atendidas:
 
-* Ele não contém um par de `bracket`.
+* Ele contém um par de `bracket`.
 
 * O subconjunto de `brackets` dentro dos limites de um par de `brackets` também é um par de `brackets` combinado.
 
