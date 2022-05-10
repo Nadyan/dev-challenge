@@ -33,7 +33,10 @@ Primeiramente, obrigado pelo seu interesse em trabalhar na JustForYou! Abaixo vo
 
 ## ❓ Problema
 
-Um `bracket` é considerado qualquer um dos seguintes caracteres: `(`,`)`, `{`,`}`, `[` ou `]`.
+Um `bracket` é considerado qualquer um dos seguintes caracteres: 
+* Colchetes: [ ou ];
+* Parênteses: ( ou );
+* Chaves: { ou }.
 
 Dois `brackets` são considerados um par combinado se um `bracket` de abertura (ou seja, `(`, `[`, ou `{`) ocorre à esquerda de um `bracket` de fechamento (ou seja,`)`,`]` ou`}`) do mesmo tipo. Existem três tipos de pares de `brackets`: `[]`, `{}` e `()`.
 
